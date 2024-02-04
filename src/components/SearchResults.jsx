@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable jsx-a11y/alt-text */
 import { useSearchParams } from "react-router-dom";
 import { useEffect, useState } from "react";
